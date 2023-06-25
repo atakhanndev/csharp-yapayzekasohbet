@@ -1,7 +1,7 @@
 # C# ile Yapay Zeka Programı
 
 ### Linkler
-- [Proje Dosyası](#)
+- [İndir](#)
 - [Instagtam](https://www.instagram.com/atakhaw/)
 - [Discord](https://discord.gg/32cYUvrjmz)
 
