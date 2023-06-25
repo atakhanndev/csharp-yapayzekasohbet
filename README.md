@@ -2,7 +2,7 @@
 
 ### Linkler
 - [İndir](#)
-- [Instagtam](https://www.instagram.com/atakhaw/)
+- [Instagram](https://www.instagram.com/atakhaw/)
 - [Discord](https://discord.gg/32cYUvrjmz)
 
   
